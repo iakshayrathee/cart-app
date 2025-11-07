@@ -356,16 +356,16 @@ The application includes comprehensive testing and error handling:
 ## 📸 Screenshots
 
 ### Products Page
-![Products Page](./images/products-page.png)
+![Products Page](https://raw.githubusercontent.com/iakshayrathee/cart-app/main/images/products-page.png)
 
 ### Cart Page
-![Cart Page](./images/cart-page.png)
+![Cart Page](https://raw.githubusercontent.com/iakshayrathee/cart-app/main/images/cart-page.png)
 
 ### Checkout Page
-![Checkout Page](./images/checkout-page.png)
+![Checkout Page](https://raw.githubusercontent.com/iakshayrathee/cart-app/main/images/checkout-page.png)
 
 ### Mobile Cart Page
-![Mobile Cart Page](./images/mobile-cart-page.png)
+![Mobile Cart Page](https://raw.githubusercontent.com/iakshayrathee/cart-app/main/images/mobile-cart-page.png)
 
 - **Products Page**: Grid of products with add-to-cart buttons
 - **Cart Page**: Items with quantities, prices, and totals
